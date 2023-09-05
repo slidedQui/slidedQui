@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slidedQui
 - 👀 I’m interested in pen test, machine learning, ethical hacking.
-- 🌱 I’m currently learning phyton with flask.
+- 🌱 I’m currently learning phyton with flask, graphql and sqlalchemy.
 - 💞️ I’m looking to collaborate on development projects.
 - 📫 How to reach me on jalbertocquintero.dev@gmail.com 
 
